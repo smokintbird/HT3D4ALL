@@ -1,0 +1,35 @@
+Where are we now?
+
+Motion system
+Sinking bed style Z axis with an X-Y moving print head
+The printer is effectively upside down once constructed with the build plate lifting up as the part grows in height
+Build plate lifts into what is effectively an open bottomed box
+Ball screw or at least lead screw based to keep X, Y, & Z steppers outside the hot areas without concerns about heat exposure or stretching of belts
+System should be 50% oversized beyond desired print area to accommodate insulation etc.
+Extruder options
+Water cooling
+Small aluminum or copper water blocks would be a good option
+Heat break
+Stepper gets 2 or 3
+Lightweight silicone tubing would carry plenty of water while insulating fairly well
+Keep the pressure fairly brisk by using multiple pumps in multiple parts of the loop
+Peltier cooling
+Peltier effect is based upon fairly small differences in temperature that we might exploit
+Peltier/heatsink/fan combo could do double duty as both heat break management & as an integrated active heater for our chamber since we are talking 500+ celcius on the hot end
+Might require some additional automation to adjust/pulse the system to regulate temperatures without causing issues when used to print lower temperature materials
+Maybe an added arduino
+Cable drive
+Extruders such as the "Zesty Nimble" already exist
+I believe we could design our own with a dremel cable handle, weed eater cable drive, etc.
+How hard can it be to take an off the shelf part and design new connections for creating a remote drive extruder that keeps our extruder motor outside any heat? LOL
+Heated Enclosure
+Insulated with KaoWool ceramic kiln insulation
+Actively heated (Options)
+a pair of 12v forced air "Automotive heaters"
+might have to baffle to control airflow
+Nichrome resistance wire
+multiple zones based upon height might help with energy efficiency
+Off the shelf PTC controller 
+available in many configs for VERY little money
+Must have fairly still air inside
+Prevent significant airflow within the heated chamber to prevent part warping
