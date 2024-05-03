@@ -1,0 +1,22 @@
+I believe any additional air movement within the print chamber should be kept to a minimum at all times it is above roughly ambient temperature.
+Reasons
+  -Air movement is likely to instigate warping from a previously stable part
+  -Some of these filaments are NASTY and either offgas or create particles that are human hazards
+  -Some materials need to be heat treated to stabilize their structure and/or relieve stresses which could be done from the build plate in some cases
+
+Proposal
+  -Keep the enclosure sealed from "Start" to "Eject"
+  -Print with heated chamber and no additional air handling other than temperature management
+  -Allow chamber to cool at desired rate for material
+  -Once below whatever threshold, begin evacuation system to fully change the air inside the chamber several times before allowing the chamber to open
+  -This would allow us to setup an emergency "purge" button to exhaust everything instantly in case we need to open the door
+
+After-Print Evacuation & Filtration system
+Operates as the final step in the cooldown process for each print
+Requires keeping the printer "air sealed" for the entire warm-up, printing, and cooldown processes
+Activated Carbon filtration to ensure VOCs have been removed
+HEPA rated filter to ensure all harmful particulates have been removed
+Maybe an inline hose fan to move air from enclosure through filters
+Negative pressure is the best way to ensure nothing escapes the enclosure
+Small aquarium pump might be enough if the enclosure is truly sealed
+Must be either exhausted completely or filtered also
