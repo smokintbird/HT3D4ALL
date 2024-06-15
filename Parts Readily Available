@@ -4,7 +4,7 @@ Parts READILY available for this printer build (as needed if needed)
 4x  NEMA23/24 1.8 degree Stepper motors
 4x  NEMA32 1.8 degree Stepper motors
 1x  100W 12v forced air heater assembly
-1x  Bigtree tech board <--------------------------------------------------------not sure gotta look
+1x  Bigtree tech board <--------------------------------------------------------not sure gotta look, but it has TMC drivers to do current based sensing of end stops
 10x  25x25x8mm aluminum water blocks
 4x  water cooling systems (pump, radiator, tubing, resivoir, fan)
 
