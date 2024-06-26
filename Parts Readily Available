@@ -1,14 +1,14 @@
-Parts READILY available for this printer build (as needed if needed)
+-----Parts READILY available for this printer build (as needed if needed)
 
 10x  NEMA17 1.8 degree Stepper motors
 4x  NEMA23/24 1.8 degree Stepper motors
 4x  NEMA32 1.8 degree Stepper motors
 1x  100W 12v forced air heater assembly
-10x  25x25x8mm aluminum water blocks
-4x  water cooling systems (pump, radiator, tubing, resivoir, fan)
-
-
-
+10x  CPU heatsink with fan(s)
+10x  25x25x8mm aluminum water blocks (Top and Side versions)
+4x  complete PC CPU water cooling systems (pump, radiator, tubing, resivoir, fan)
+2x  All In One CPU water cooling systems
+Various water cooling pumps, water blocks, radiators, etc. (Overclocking Yeah!)
 
 3x  300mm long (175mm travel) ball screws
 3x  300mm long dual carriage linear bearings
@@ -16,22 +16,23 @@ Parts READILY available for this printer build (as needed if needed)
 4x  300mm long 6mm linnear rods with multiple bearings
 4x  300mm long 8mm linnear rods with multiple bearings
 10x  16" long 2020 rails (lots of assembly hardware)
-
-
-
-
+Various structural steel that can be welded poorly with my wire welder (unless someone with "skill" volunteers)
 
 5x  yards of mylar reflective bubble wrap insulation (tested to 120c)
 2x  tubes of high temperature (500f/260c after curing) RTV sealant
 1x  3M Super77 spray adhesive (tested to 100c after curing)
 5x  250x250x4mm Fiberglass insulation sheets
 
+Piles of Capacitors, Resistors, Inductors, LEDs, transistors, op-amps, mechanical relays, potentiometers, encoders, transformers, etc.
+Piles of Pre-Fabricated boards for power regulation, step-down, step-up, charging, sensing, solid state relays, etc.
 
-
-Main Board
+-Main Board
 1x  Bigtree tech board <--has TMC drivers to do current based sensing of end stops
-unfortunately I believe we will need more drivers than this board can support so we need a different board
-any suggestions?
+Unfortunately I believe we will need more drivers than this board can support... we need a different board
+I would prefer to use the 2208 TMC drivers I have, but am open to suggestions if there is a better option (I wanted sensorless homing from these)
 
+^
+|
+Any Suggestions of any kind?
 
 
