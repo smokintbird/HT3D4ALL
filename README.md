@@ -2,7 +2,8 @@
 Affordable high temperature filament 3D printer
 
 We are working toward an affordable 3D printer capable of printing high temperature engineering filaments. Currently available printers capable of turning out reliable parts from PEKK, PSU, etc. cost several thousand USD; I think we can do better for cheaper since we are not trying to make a proffit.
-The project has been started by the DEFCON 404 security enthusiast group, and is being discussed on their discord server.  The project is open to all interested parties with something to contribute!
+
+The project was started in the DEFCON 404 security enthusiast group and is being discussed/developed on their discord server.  The project is open to all interested parties with something to contribute!
 
 
 The Dream
