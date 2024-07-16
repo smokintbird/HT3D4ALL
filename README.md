@@ -43,7 +43,7 @@ In this section we will discuss what hardware sections we will need to create
 This section will be where we discuss with software we will decide to use
 - Firmware
 	- Klipper
- - 		Which hardware for the "Klipper PC"
+ - 		Which hardware for the "Klipper PC" Raspberry Pi something or other???
 - Marcos
 - 	Auto bed meshing/leveling
 -	Loading filament
