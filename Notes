@@ -1,0 +1,4 @@
+Assuming we are going to use Klipper...
+
+The specific controller board would be irrelvent so long as it is a Klipper officially supported board that has the specific features we need
+  so far= 1 extruder minimum, 1 X axis motor, 2 Y axis motors, 3 Z axis motors, maybe a dozen sensors, maybe half a dozen digital outputs, maybe half dozen analog outputs
